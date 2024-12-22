@@ -1,3 +1,11 @@
+![Screenshot (140)](https://github.com/user-attachments/assets/470f4fb2-eaf7-4b9c-be01-3f7cbb14e997) 
+![Screenshot (141)](https://github.com/user-attachments/assets/e2aecacb-1e21-4258-b91b-2e9c1686ff63)
+![Screenshot (142)](https://github.com/user-attachments/assets/b4deba1c-9b6d-44ad-ac01-ee1d74805f8b)
+![Screenshot (143)](https://github.com/user-attachments/assets/e43388b6-43ae-421b-a703-ddcaabd58508)
+![Screenshot (144)](https://github.com/user-attachments/assets/34ca2662-1d0a-4e41-bc0b-68c9cfa3f4ce)
+
+
+
 # Candy Game 🎮  
 Candy Game is an exciting Unity-based game where you guide a yellow ball to interact with objects and achieve challenging objectives. The game combines precision, timing, and strategy for a fun and engaging experience.
 
