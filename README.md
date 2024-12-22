@@ -57,13 +57,7 @@ git clone https://github.com/SamriddhiBhatnagar/Candy-Game.git
 ## 🤝 Contributing
 Feel free to fork the repository and submit pull requests for improvements or bug fixes.  
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ## 💬 Feedback  
-Found a bug? Got suggestions? Open an issue or contact me directly. I’d love to hear from you!  
-This project is licensed under the MIT License - see the LICENSE file for details.  
+Found a bug? Got suggestions? Open an issue or contact me directly at samriddhibhatnagar8@gmail.com. I’d love to hear from you!  
 
-### 💬 Feedback  
-If you have any suggestions or encounter issues, please open an issue in the repository or contact me directly.
 
