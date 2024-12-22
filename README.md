@@ -28,7 +28,7 @@ Successfully drop the ball onto the green block and prevent it from touching the
 ## 📦 How to Run
 #### Option 1: Clone the Repository
 1. Clone the repository:    
-git clone https://github.com/yourusername/candy-game.git  
+git clone https://github.com/SamriddhiBhatnagar/Candy-Game.git  
 3. Open the project in Unity.
 4. Press Play to start the game.
 #### Option 2: Download from the Releases Tab
