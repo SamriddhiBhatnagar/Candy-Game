@@ -57,7 +57,5 @@ Successfully drop the ball onto the green block and prevent it from touching the
 ## 🤝 Contributing
 Feel free to fork the repository and submit pull requests for improvements or bug fixes.  
 
-## 💬 Feedback  
-Found a bug? Got suggestions? Open an issue or contact me directly at samriddhibhatnagar8@gmail.com. I’d love to hear from you!  
 
 
